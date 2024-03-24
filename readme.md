@@ -1,3 +1,5 @@
+Configurasi
+
 Tahapan
 
 1. Buat folder NOTES-APP-BACK-END
@@ -15,8 +17,9 @@ How would you like to define a style for your project? -> Use a popular style gu
 Which style guide do you want to follow? -> (Anda bebas memilih, sebagai contoh pilih AirBnB).
 What format do you want your config file to be in? -> JSON.
 Would you like to …… (seluruh pertanyaan selanjutnya) -> Y.
+
 7. Add eslintrc.json
     "rules": {
         "no-console": "off",
     }
-8.     
+     
