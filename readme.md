@@ -6,8 +6,9 @@ Tahapan
 2. npm init --y
 3. npm install nodemon --save-dev
 4. install esLint : npm install eslint --save-dev
-5. konfig eslint : npx eslint --init
-6. 
+5. npm install nanoid@3.x.x
+6. konfig eslint : npx eslint --init
+7. 
 How would you like to use ESLint? -> To check, find problems, and enforce code style.
 What type of modules does your project use? -> CommonJS (require/exports).
 Which framework did you use? -> None of these. 
@@ -18,7 +19,7 @@ Which style guide do you want to follow? -> (Anda bebas memilih, sebagai contoh 
 What format do you want your config file to be in? -> JSON.
 Would you like to …… (seluruh pertanyaan selanjutnya) -> Y.
 
-7. Add eslintrc.json
+8. Add eslintrc.json
     "rules": {
         "no-console": "off",
     }
