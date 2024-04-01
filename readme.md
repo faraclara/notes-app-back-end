@@ -5,8 +5,9 @@ Tahapan
 1. Buat folder NOTES-APP-BACK-END
 2. npm init --y
 3. npm install nodemon --save-dev
-4. npm install nanoid@3.x.x
-5. install esLint : npm install eslint --save-dev
+4. npm install @hapi/hapi
+5. npm install nanoid@3.x.x
+6. install esLint : npm install eslint --save-dev
    npx eslint --init
 7. konfig eslint : npx eslint --init
    
